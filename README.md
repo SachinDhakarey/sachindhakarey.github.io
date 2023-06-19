@@ -1,36 +1,45 @@
-# sachindhakarey.github.io
+# Sachin Dhakarey's Personal Homepage
 
-This is my personal portfolio website that showcases my skills, projects, and achievements. The website is built using HTML, CSS, and JavaScript.
+This repository contains the source code for Sachin Dhakarey's personal homepage, which is hosted on [www.sachindhakarey.github.io](https://www.sachindhakarey.github.io). The homepage showcases Sachin's latest projects, provides information about him, and offers ways to contact him.
 
-## Getting Started
-You can simply view the website at https://sachindhakarey.github.io/
+## Technologies Used
 
-If you want to run the website locally you can clone the repository:
-<!--  
-```bash
-git clone https://github.com/sachindhakarey/sachindhakarey.github.io.git
-```
--->
+The following technologies were used to develop this project:
 
-## Features
-
-- Responsive design that looks great on all screen sizes
-- Home page with a brief introduction and links to other sections
-- Projects page that showcases my personal and professional projects
-- About me page that highlights my education, skills, and achievements
-- Contact me page with all the necessary links
-
-## Technologies
-This website uses the following technologies:
-- HTML5
-- CSS3
+- HTML
+- CSS
+- Bootstrap
 - JavaScript
-- Bootstrap 5
-- Google Fonts API
+- jQuery
 
-## Author
-Email:- sachindhakarey2002@gmail.com
+## How to Clone or Replicate the Code
+
+To clone or replicate this project locally, follow these steps:
+
+1. Clone the repository using the following command:
+   ```git clone https://github.com/sachindhakarey/sachindhakarey.github.io.git```
+
+2. Navigate to the project directory:
+   ```cd sachindhakarey.github.io```
+   
+3. You can now explore and modify the source code using your preferred code editor.
+
+
+## External Dependencies
+
+The project relies on the following external dependencies, which are linked via content delivery networks (CDNs):
+
+- [Bootstrap](https://getbootstrap.com): CSS framework for responsive design.
+- [jQuery](https://jquery.com): JavaScript library for DOM manipulation.
+- [Popper.js](https://popper.js.org): JavaScript library for tooltip and popover positioning.
+
+## Contributing
+
+Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please create an issue on the [GitHub repository](https://github.com/sachindhakarey/sachindhakarey.github.io/issues) or submit a pull request.
 
 ## License
 
-<!-- This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details. -->
+This project is open source under the [Apache-2.0 License](LICENSE).
+
+
+
